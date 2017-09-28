@@ -21,7 +21,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.8:jar" level="project" />
     <orderEntry type="library" name="SBT: aopalliance:aopalliance:1.0:jar" level="project" />
     <orderEntry type="library" name="SBT: com.clearspring.analytics:stream:2.7.0:jar" level="project" />
     <orderEntry type="library" name="SBT: com.esotericsoftware:kryo-shaded:3.0.3:jar" level="project" />
@@ -148,5 +147,6 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="scala-sdk-2.11.8" level="project" />
   </component>
 </module>
